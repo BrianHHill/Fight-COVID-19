@@ -13,8 +13,10 @@ An experienced hackathon host (https://www.laughingmind.com/events.html), Brian 
 If you'd like to support the work and buy me a ☕, I'd greatly appreciate it!
 https://www.buymeacoffee.com/laughingmind
 
-# What we need
+# What's needed
 We're keeping our eyes and ears peeled for emergent issues that online community members are experiencing in their towns, cities and neighbourhoods that an event like this can help deliver impact for. We'd ask you to keep posting into our Issues register at https://github.com/BrianHHill/COVIDCrisisHack/issues for us to curate in the event planning phase. 
+
+A system dynamics model is being developed and iterated at https://kumu.io/laughingmind/covid-19-pandemic-responses to provide a summary view of pandemic responses, which will grow over time.
 
 We're also looking for experienced individuals to assist in the co-production of this online initiative, particularly if they've been involved in delivering distributed online challenges at scale. We're mindful of the need for localisation of initiatives as satellite events, or co-produced event streams
 
