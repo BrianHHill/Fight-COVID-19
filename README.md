@@ -1,8 +1,8 @@
-# COVIDCrisisHack
+# Fight-COVID-19
 
 As COVID-19 starts to gain traction and deliver epidemiological impact globally, there is an ongoing need to marshall resources and develop tactical responses to the impact points of this global pandemic. 
 
-Originating from the event hosts 2020 eLife Sciences open-leadership program and mentor discussions, the COVIDCrisisHack is a virtual hackathon for online communities to gather around and lean-into to help develop tech-augmented responses to the unfolding crisis.
+Originating from the event hosts 2020 eLife Sciences open-leadership program and mentor discussions, the Fight-COVID-19 is a virtual hackathon for online communities to gather around and lean-into to help develop tech-augmented responses to the unfolding crisis.
 
 # About the Event
 We're in event concept development mode at the moment, engaging with groups like Medical Engineering and Innovation schools, LifeSciences programs and event production peers to help shape the event for you to participate in shortly.
@@ -14,7 +14,7 @@ If you'd like to support the work and buy me a ☕, I'd greatly appreciate it!
 https://www.buymeacoffee.com/laughingmind
 
 # What's needed
-We're keeping our eyes and ears peeled for emergent issues that online community members are experiencing in their towns, cities and neighbourhoods that an event like this can help deliver impact for. We'd ask you to keep posting into our Issues register at https://github.com/BrianHHill/COVIDCrisisHack/issues for us to curate in the event planning phase. 
+We're keeping our eyes and ears peeled for emergent issues that online community members are experiencing in their towns, cities and neighbourhoods that an event like this can help deliver impact for. We'd ask you to keep posting into our Issues register for us to curate in the event planning phase. 
 
 A system dynamics model is being developed and iterated at https://kumu.io/laughingmind/covid-19-pandemic-responses to provide a summary view of pandemic responses, which will grow over time.
 
